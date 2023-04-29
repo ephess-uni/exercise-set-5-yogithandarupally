@@ -6,6 +6,7 @@ This module contains an entry point that:
 - writes the file to the output file argument
 """
 import numpy as np
+import argparse
 from argparse import ArgumentParser
 
 if __name__ == "__main__":
